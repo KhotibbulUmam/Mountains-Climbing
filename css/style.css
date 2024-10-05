@@ -1,0 +1,79 @@
+/* Styling Navbar */
+.navbar-brand {
+    font-family: 'Lobster', cursive;
+    font-size: 25;
+}
+
+/* Styling Header */
+header {
+    background: linear-gradient( to bottom, rgba(0,0,0,.3), rgba(0,0,0,.5)),url('../img/picture_5.jpg');;
+    background-size: cover;
+    height: auto;
+    padding-top: 10rem;
+    padding-bottom: 10rem;
+}
+
+header h1 {
+    font-family: 'Quicksand', sans-serif;
+}
+
+/* Styling About */
+#about img {
+    width: 300px;
+    height: 450px;
+    padding-bottom: 20px;
+}
+
+#about p {
+    font-size: 20px;
+}
+
+/* Styling Toko */
+#toko .card {
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+/* Styling Testimonials */
+#testimoni .border {
+    padding-top: 50px;
+    padding-bottom: 50px;
+    padding-left: 50px;
+    padding-right: 50px;
+    background-color: white;
+}
+
+#testimoni img {
+    border-radius: 50%;
+    width: 125px;
+    height: 125px;
+    margin: 25px;
+    border: 4px solid grey;
+}
+
+#testimoni p {
+    font-size: 20px;
+    font-family: 'Quicksand', sans-serif;
+
+}
+
+#testimoni h5 {
+    font-family: 'Quicksand', sans-serif;
+    font-weight: bold;
+}
+
+/* Styling Footer */
+.footer h3 a {
+    text-decoration: none;
+    font-family: 'Lobster', cursive;
+    font-size: 25;
+}
+
+.footer ul {
+    font-size: 25px;
+    
+}
+
+.footer h6 a {
+    text-decoration: none;
+    color: #fff;
+}
